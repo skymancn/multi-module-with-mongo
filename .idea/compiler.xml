@@ -12,6 +12,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="employee-server" target="1.5" />
       <module name="interface" target="1.5" />
       <module name="persistence" target="1.5" />
       <module name="service" target="1.5" />
